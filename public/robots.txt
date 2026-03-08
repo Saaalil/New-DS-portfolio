@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salil-portfolio.vercel.app/sitemap.xml
